@@ -57,20 +57,7 @@
 						
 
 	    
-	</div>
 	
-							
-
-			</header>
-			<div class="main-box">
-	
-				
-				
-				
-				<div class="content-wrapper">
-	<main class="content">
-								    		<div class="article-wrap" itemscope itemtype="http://schema.org/Article">
-						<article class="single">
 															<h1 class="single__title" itemprop="headline">Лучшие режимы Роблокс</h1>
 															<div itemprop="articleBody">
 								<div class='code-block code-block-1' style='margin: 8px 0; clear: both;'>
