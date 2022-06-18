@@ -4,64 +4,6 @@
 <html lang="ru">
 <head>
 
-     
- 
-	
-
-<!-- This site is optimized with the Yoast SEO plugin v7.7.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Подборка лучших режимов Роблокс. Роблокс режимы самые разнообразные. Побег, пол-это лава, привет сосед, выживание, побег из школы Roblox."/>
-
-<meta property="og:title" content="Лучшие режимы Роблокс: в какой роблокс играть интереснее" />
-<meta property="og:description" content="Подборка лучших режимов Роблокс. Роблокс режимы самые разнообразные. Побег, пол-это лава, привет сосед, выживание, побег из школы Roblox." />
-<meta property="og:url" content="https://roblox-igra.ru/igrat-v-robloks/luchshie-rezhimy-robloks" />
-<meta property="og:site_name" content="RobloxIgra" />
-<meta property="article:tag" content="roblox" />
-<meta property="article:tag" content="режимы роблокс" />
-<meta property="article:tag" content="роблокс" />
-<meta property="article:section" content="ИГРАТЬ В РОБЛОКС" />
-<meta property="article:published_time" content="2018-07-09T18:47:48+00:00" />
-<meta property="article:modified_time" content="2018-07-09T19:00:40+00:00" />
-<meta property="og:updated_time" content="2018-07-09T19:00:40+00:00" />
-<meta property="og:image" content="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-7-1.jpg" />
-<meta property="og:image:secure_url" content="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-7-1.jpg" />
-<meta property="og:image:width" content="1280" />
-<meta property="og:image:height" content="720" />
-<meta property="og:image:alt" content="Лучшие режимы Роблокс" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:description" content="Подборка лучших режимов Роблокс. Роблокс режимы самые разнообразные. Побег, пол-это лава, привет сосед, выживание, побег из школы Roblox." />
-<meta name="twitter:title" content="Лучшие режимы Роблокс: в какой роблокс играть 
-		<style type="text/css">
-
-}
-</style>
-
-<link rel="alternate" type="application/json+oembed" href="https://roblox-igra.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Froblox-igra.ru%2Figrat-v-robloks%2Fluchshie-rezhimy-robloks" />
-<link rel="alternate" type="text/xml+oembed" href="https://roblox-igra.ru/wp-json/oembed/1.0/embed?url=https%3A%2F%2Froblox-igra.ru%2Figrat-v-robloks%2Fluchshie-rezhimy-robloks&#038;format=xml" />
-<link rel="icon" href="https://roblox-igra.ru/wp-content/uploads/2018/07/cropped-roblox_by_moderationhistory-danl57h-32x32.png" sizes="32x32" />
-<link rel="icon" href="https://roblox-igra.ru/wp-content/uploads/2018/07/cropped-roblox_by_moderationhistory-danl57h-192x192.png" sizes="192x192" />
-<link rel="apple-touch-icon-precomposed" href="https://roblox-igra.ru/wp-content/uploads/2018/07/cropped-roblox_by_moderationhistory-danl57h-180x180.png" />
-<meta name="msapplication-TileImage" content="https://roblox-igra.ru/wp-content/uploads/2018/07/cropped-roblox_by_moderationhistory-danl57h-270x270.png" />
-	
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	
-			<script src="https://roblox-igra.ru/wp-content/themes/roblox/js/scripts.js"></script>
-	
-<body>
-	<div id="main">
-		<div class="wrapper">
-			<header class="header">
-									<a href="https://roblox-igra.ru">
-						<img src="https://roblox-igra.ru/wp-content/uploads/2018/07/лого-1.png " class="logo" alt="RobloxIgra">
-					</a>
-									<div class="m-nav">
-						
-
-	    
-	
-															<h1 class="single__title" itemprop="headline">Лучшие режимы Роблокс</h1>
-															<div itemprop="articleBody">
-								<div class='code-block code-block-1' style='margin: 8px 0; clear: both;'>
-<script async type="text/javascript" src="//orjzy.com/native.php?b=cf89f51b2eb24874bdfd51a5eb76747d"></script></div>
 <p>Играть в Роблокс нужно не только для того, чтобы построить новые города, но и для того, чтобы развеяться, приятно провести время и насладиться окружающем миром со своими друзьями. Для этого можно предложить коллегам по игре сходить в парк и устроить небольшой пикник, или отправиться в парк развлечений и пощекотать свои нервы на американских горках. А если вы очень серьезный человек, попробуйте воплотить свою мечту в жизнь и создать свой собственный бизнес.</p>
 <p><img class="alignnone size-large wp-image-62" src="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-7-1-1024x576.jpg" alt="Лучшие режимы Роблокс" width="1024" height="576" srcset="https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-7-1-1024x576.jpg 1024w, https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-7-1-300x169.jpg 300w, https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-7-1-768x432.jpg 768w, https://roblox-igra.ru/wp-content/uploads/2018/07/maxresdefault-7-1.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /></p>
 <p>Играя в Роблокс, вы не заметите, что вас в чем-то ограничивают. Управлять своими подопечными легче простого, даже самый юный пользователь будет чувствовать себя в Роблокс как рыба в воде. Важно, чтобы вы поддерживали свои навыки на определенном уровне и повышали их.</p>
