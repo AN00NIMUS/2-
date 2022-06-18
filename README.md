@@ -10,9 +10,7 @@
 
 <!-- This site is optimized with the Yoast SEO plugin v7.7.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Подборка лучших режимов Роблокс. Роблокс режимы самые разнообразные. Побег, пол-это лава, привет сосед, выживание, побег из школы Roblox."/>
-<link rel="canonical" href="https://roblox-igra.ru/igrat-v-robloks/luchshie-rezhimy-robloks" />
-<meta property="og:locale" content="ru_RU" />
-<meta property="og:type" content="article" />
+
 <meta property="og:title" content="Лучшие режимы Роблокс: в какой роблокс играть интереснее" />
 <meta property="og:description" content="Подборка лучших режимов Роблокс. Роблокс режимы самые разнообразные. Побег, пол-это лава, привет сосед, выживание, побег из школы Roblox." />
 <meta property="og:url" content="https://roblox-igra.ru/igrat-v-robloks/luchshie-rezhimy-robloks" />
