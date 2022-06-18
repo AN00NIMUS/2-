@@ -6,14 +6,7 @@
 
      
  
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,700,700i&subset=cyrillic" rel="stylesheet">
-	<link href="https://roblox-igra.ru/wp-content/themes/roblox/style.css" rel="stylesheet">
-	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
-	<!--[if lte IE 9]><script src="http://cdn.jsdelivr.net/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
-	<!--[if gte IE 9]><style type="text/css">.gradient{filter: none;}</style><![endif]-->
-	<title>Лучшие режимы Роблокс: в какой роблокс играть интереснее</title>
+	
 
 <!-- This site is optimized with the Yoast SEO plugin v7.7.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Подборка лучших режимов Роблокс. Роблокс режимы самые разнообразные. Побег, пол-это лава, привет сосед, выживание, побег из школы Roblox."/>
